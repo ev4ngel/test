@@ -1,0 +1,21 @@
+{
+	'ver':'1.2',
+	'server':{
+			'ip':"202.96.185.34",
+			'port':9600,
+			'patharray':['history','account','login'],
+			'path':{
+					'history':'/dadjkajdka/dada',
+					'account':'/djaka/ffs',
+					'login':'/djakda/adak'
+					},
+			'headerarray':['user-agent','host','keep-alive','content-type'],
+			'header':{
+					'user-agent':'dadlakld',
+					'host':'dadaf',
+					'keep-alive':'dada'
+					},
+			'param':'daakjdkajdkajkjIMEI'
+			}
+}
+	

@@ -1,0 +1,1 @@
+{"date": "2013-04-06", "files": {"res": "http://t1.dfs.kuaipan.cn/cdlsched/getdl?fid=2846038603860203&acc_params=entryid:2846038603860203,pickupCode:&extm=1365213785-17a87d952eaba74cbc7bde75f5884234&snk_in_get=1'"}, "des": "\u6d4b\u8bd5\u7f51\u7edc", "ver": "1.0"}

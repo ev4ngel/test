@@ -41,9 +41,10 @@ def main():
     mDirt['files']={}
     if apklink!="":
         mDirt['files']['apk']=getRealUrlFromLink(apklink)
+        print(mDirt['files']['apk'])
     if reslink!="":
         mDirt['files']['res']=getRealUrlFromLink(reslink)
-    generateJsonFile(version,mDirt)
+    #generateJsonFile(version,mDirt)
     print("Done!")
 if __name__=="__main__":
     main()   
